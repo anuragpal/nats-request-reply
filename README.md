@@ -1,3 +1,3 @@
-# NATS.to Request-Reply
+# MicroServices using Nats.io and Golang (Nats request/reply)
 
-    *   Manage docker image for Nats
+    *   MicroServices using Nats.io and Golang
